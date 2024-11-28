@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     	
     <wb-module deploy-name="gittest1">
@@ -13,4 +14,13 @@
         	
     </wb-module>
     
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+	<wb-module deploy-name="gittest1">
+		<property name="context-root" value="gittest1"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/resources"/>
+		<wb-resource deploy-path="/WEB-INF/classes" source-path="src/main/java"/>
+	</wb-module>
+>>>>>>> 75bc9e1512408d348f7f241a04151d11c486b85a
 </project-modules>
